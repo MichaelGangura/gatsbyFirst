@@ -1,13 +1,27 @@
 .container {
+    background-color: black;
     margin: auto;
-    max-width: 500px;
+    max-width: 1600px;
     font-family: sans-serif;
+    text-align: center;
   }
   .heading {
-    color: rebeccapurple;
+    color: #F87D39;
+  }
+
+  .tel {
+    max-width: 700px;
+    margin: auto;
+    padding: 1rem;
+    color: #F87D39;
+    font-size: 1.5rem;
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px 5px #F87D39;
   }
   .nav-links {
     display: flex;
+    max-width: 510px;
+    margin: 3rem auto;
     list-style: none;
     padding-left: 0;
   }
@@ -15,11 +29,11 @@
     padding-right: 2rem;
   }
   .nav-link-text {
-    color: black;
+    color: #F87D39;
   }
   .site-title {
     font-size: 3rem;
-    color: gray;
+    color: #F87D39;
     font-weight: 700;
     margin: 3rem 0;
   }

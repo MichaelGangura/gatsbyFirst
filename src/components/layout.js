@@ -6,7 +6,8 @@ import {
   navLinks,
   navLinkItem,
   navLinkText,
-  siteTitle
+  siteTitle,
+  tel,
 } from './layout.module.css'
 
 const Layout = ({ pageTitle, children }) => {
@@ -24,11 +25,15 @@ const Layout = ({ pageTitle, children }) => {
   return (
     <div className={container}>
       <header className={siteTitle}>{data.site.siteMetadata.title}</header>
+      <div className={tel}>локація м.Стрий | тел./viber 0965651211</div>
       <nav>
         <ul className={navLinks}>
-          <li className={navLinkItem}><Link className={navLinkText} to="/">Home</Link></li>
-          <li className={navLinkItem}><Link className={navLinkText} to="/about">About</Link></li> 
-          <li className={navLinkItem}><Link className={navLinkText} to="/blog">Blog</Link></li> 
+          <li className={navLinkItem}><Link className={navLinkText} to="/">Головна</Link></li>
+          <li className={navLinkItem}><Link className={navLinkText} to="/systemi">Системи</Link></li> 
+          <li className={navLinkItem}><Link className={navLinkText} to="/prihozhi">Прихожі</Link></li> 
+          <li className={navLinkItem}><Link className={navLinkText} to="/spalni">Спальні</Link></li> 
+          <li className={navLinkItem}><Link className={navLinkText} to="/vitalni">Вітальні</Link></li> 
+          <li className={navLinkItem}><Link className={navLinkText} to="/rizne">Різне</Link></li> 
         </ul>
       </nav>
       <main>
