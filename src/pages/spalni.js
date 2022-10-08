@@ -9,15 +9,15 @@ const Spalni = () => {
     <Layout pageTitle="Спальні">
       <StaticImage
         alt="Аляска"
-        src="../images/spalni/аляска0.JPG"
+        src="../images/spalni/аляска0.jpg"
       />
       <StaticImage
         alt="Аляска"
-        src="../images/spalni/аляска1.JPG"
+        src="../images/spalni/аляска1.jpg"
       />
       <StaticImage
         alt="Аляска"
-        src="../images/spalni/аляска2.JPG"
+        src="../images/spalni/аляска2.jpg"
       />
       <br />
       <hr />
@@ -25,11 +25,11 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Барокко"
-        src="../images/spalni/барокко1.JPG"
+        src="../images/spalni/барокко1.jpg"
       />
       <StaticImage
         alt="Барокко"
-        src="../images/spalni/барокко2.JPG"
+        src="../images/spalni/барокко2.jpg"
       />
       <br />
       <hr />
@@ -37,7 +37,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="БрістольНЮ"
-        src="../images/spalni/брістольню.JPG"
+        src="../images/spalni/брістольню.jpg"
       />
       <br />
       <hr />
@@ -45,11 +45,11 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Вероніка"
-        src="../images/spalni/вероніка1.JPG"
+        src="../images/spalni/вероніка1.jpg"
       />
       <StaticImage
         alt="Вероніка"
-        src="../images/spalni/вероніка2.JPG"
+        src="../images/spalni/вероніка2.jpg"
       />
       <br />
       <hr />
@@ -57,7 +57,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Глорія"
-        src="../images/spalni/глорія.JPG"
+        src="../images/spalni/глорія.jpg"
       />
       <br />
       <hr />
@@ -65,15 +65,15 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Даллас"
-        src="../images/spalni/даллас1.JPG"
+        src="../images/spalni/даллас1.jpg"
       />
       <StaticImage
         alt="Даллас"
-        src="../images/spalni/даллас2.JPG"
+        src="../images/spalni/даллас2.jpg"
       />
       <StaticImage
         alt="Даллас"
-        src="../images/spalni/даллас3.JPG"
+        src="../images/spalni/даллас3.jpg"
       />
       <br />
       <hr />
@@ -81,11 +81,11 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Домініка"
-        src="../images/spalni/домініка1.JPG"
+        src="../images/spalni/домініка1.jpg"
       />
       <StaticImage
         alt="Домініка"
-        src="../images/spalni/домініка2.JPG"
+        src="../images/spalni/домініка2.jpg"
       />
       <br />
       <hr />
@@ -93,11 +93,11 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Кім"
-        src="../images/spalni/кім1.JPG"
+        src="../images/spalni/кім1.jpg"
       />
       <StaticImage
         alt="Кім"
-        src="../images/spalni/кім2.JPG"
+        src="../images/spalni/кім2.jpg"
       />
       <br />
       <hr />
@@ -105,7 +105,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Лондон"
-        src="../images/spalni/лондон.JPG"
+        src="../images/spalni/лондон.jpg"
       />
       <br />
       <hr />
@@ -113,7 +113,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Маркос"
-        src="../images/spalni/маркос.JPG"
+        src="../images/spalni/маркос.jpg"
       />
       <br />
       <hr />
@@ -121,7 +121,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Мілан"
-        src="../images/spalni/мілан.JPG"
+        src="../images/spalni/мілан.jpg"
       />
       <br />
       <hr />
@@ -129,11 +129,11 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Мілано"
-        src="../images/spalni/мілано1.JPG"
+        src="../images/spalni/мілано1.jpg"
       />
       <StaticImage
         alt="Мілано"
-        src="../images/spalni/мілано2.JPG"
+        src="../images/spalni/мілано2.jpg"
       />
       <br />
       <hr />
@@ -141,7 +141,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Софія"
-        src="../images/spalni/софія.JPG"
+        src="../images/spalni/софія.jpg"
       />
       <br />
       <hr />
@@ -149,15 +149,15 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Токіо"
-        src="../images/spalni/токіо1.JPG"
+        src="../images/spalni/токіо1.jpg"
       />
       <StaticImage
         alt="Токіо"
-        src="../images/spalni/токіо2.JPG"
+        src="../images/spalni/токіо2.jpg"
       />
       <StaticImage
         alt="Токіо"
-        src="../images/spalni/токіо3.JPG"
+        src="../images/spalni/токіо3.jpg"
       />
       <br />
       <hr />
@@ -165,7 +165,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Фієста"
-        src="../images/spalni/фієста.JPG"
+        src="../images/spalni/фієста.jpg"
       />
       <br />
       <hr />
@@ -173,7 +173,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Флоренс"
-        src="../images/spalni/флоренс.JPG"
+        src="../images/spalni/флоренс.jpg"
       />
       <br />
       <hr />
@@ -181,7 +181,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Флоріс"
-        src="../images/spalni/флоріс.JPG"
+        src="../images/spalni/флоріс.jpg"
       />
       <br />
       <hr />
@@ -189,7 +189,7 @@ const Spalni = () => {
       <br />
       <StaticImage
         alt="Соната"
-        src="../images/spalni/соната.JPG"
+        src="../images/spalni/соната.jpg"
       />
     </Layout>
   )

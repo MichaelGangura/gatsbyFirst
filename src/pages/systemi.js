@@ -9,15 +9,15 @@ const Systemi = () => {
     <Layout pageTitle="Системи">
       <StaticImage
         alt="Валенсія"
-        src="../images/systemi/валенсія1.JPG"
+        src="../images/systemi/валенсія1.jpg"
       />
       <StaticImage
         alt="Валенсія"
-        src="../images/systemi/валенсія2.JPG"
+        src="../images/systemi/валенсія2.jpg"
       />
       <StaticImage
         alt="Валенсія"
-        src="../images/systemi/валенсія3.JPG"
+        src="../images/systemi/валенсія3.jpg"
       />
       <br/>
       <hr/>
@@ -25,11 +25,11 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Велс"
-        src="../images/systemi/велс1.JPG"
+        src="../images/systemi/велс1.jpg"
       />
       <StaticImage
         alt="Велс"
-        src="../images/systemi/велс2.JPG"
+        src="../images/systemi/велс2.jpg"
       />
       <br/>
       <hr/>
@@ -37,15 +37,15 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Грес"
-        src="../images/systemi/грес1.JPG"
+        src="../images/systemi/грес1.jpg"
       />
       <StaticImage
         alt="Грес"
-        src="../images/systemi/грес2.JPG"
+        src="../images/systemi/грес2.jpg"
       />
       <StaticImage
         alt="Грес"
-        src="../images/systemi/грес3.JPG"
+        src="../images/systemi/грес3.jpg"
       />
       <br/>
       <hr/>
@@ -53,15 +53,15 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Джорджія"
-        src="../images/systemi/джорджія1.JPG"
+        src="../images/systemi/джорджія1.jpg"
       />
       <StaticImage
         alt="Джорджія"
-        src="../images/systemi/джорджія2.JPG"
+        src="../images/systemi/джорджія2.jpg"
       />
       <StaticImage
         alt="Джорджія"
-        src="../images/systemi/джорджія3.JPG"
+        src="../images/systemi/джорджія3.jpg"
       />
       <br/>
       <hr/>
@@ -69,15 +69,15 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Іріс"
-        src="../images/systemi/іріс1.JPG"
+        src="../images/systemi/іріс1.jpg"
       />
       <StaticImage
         alt="Іріс"
-        src="../images/systemi/іріс2.JPG"
+        src="../images/systemi/іріс2.jpg"
       />
       <StaticImage
         alt="Іріс"
-        src="../images/systemi/іріс3.JPG"
+        src="../images/systemi/іріс3.jpg"
       />
       <br/>
       <hr/>
@@ -85,11 +85,11 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Ламі"
-        src="../images/systemi/ламі1.JPG"
+        src="../images/systemi/ламі1.jpg"
       />
       <StaticImage
         alt="Ламі"
-        src="../images/systemi/ламі2.JPG"
+        src="../images/systemi/ламі2.jpg"
       />
       <br/>
       <hr/>
@@ -97,7 +97,7 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Мілан"
-        src="../images/systemi/мілан.JPG"
+        src="../images/systemi/мілан.jpg"
       />
       <br/>
       <hr/>
@@ -105,11 +105,11 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Парма"
-        src="../images/systemi/парма1.JPG"
+        src="../images/systemi/парма1.jpg"
       />
       <StaticImage
         alt="Парма"
-        src="../images/systemi/парма2.JPG"
+        src="../images/systemi/парма2.jpg"
       />
       <br/>
       <hr/>
@@ -117,11 +117,11 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Салма"
-        src="../images/systemi/салма1.JPG"
+        src="../images/systemi/салма1.jpg"
       />
       <StaticImage
         alt="Салма"
-        src="../images/systemi/салма2.JPG"
+        src="../images/systemi/салма2.jpg"
       />
       <br/>
       <hr/>
@@ -129,15 +129,15 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="Тіпс"
-        src="../images/systemi/тіпс1.JPG"
+        src="../images/systemi/тіпс1.jpg"
       />
       <StaticImage
         alt="Тіпс"
-        src="../images/systemi/тіпс2.JPG"
+        src="../images/systemi/тіпс2.jpg"
       />
       <StaticImage
         alt="Тіпс"
-        src="../images/systemi/тіпс3.JPG"
+        src="../images/systemi/тіпс3.jpg"
       />
       <br/>
       <hr/>
@@ -145,19 +145,19 @@ const Systemi = () => {
       <br/>
       <StaticImage
         alt="ФантазіяНЮ"
-        src="../images/systemi/фантазіяню1.JPG"
+        src="../images/systemi/фантазіяню1.jpg"
       />
       <StaticImage
         alt="ФантазіяНЮ"
-        src="../images/systemi/фантазіяню2.JPG"
+        src="../images/systemi/фантазіяню2.jpg"
       />
       <StaticImage
         alt="ФантазіяНЮ"
-        src="../images/systemi/фантазіяню3.JPG"
+        src="../images/systemi/фантазіяню3.jpg"
       />
       <StaticImage
         alt="ФантазіяНЮ"
-        src="../images/systemi/фантазіяню4.JPG"
+        src="../images/systemi/фантазіяню4.jpg"
       />
     </Layout>
   )

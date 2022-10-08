@@ -8,6 +8,7 @@ import {
   navLinkText,
   siteTitle,
   tel,
+  text1,
 } from './layout.module.css'
 
 const Layout = ({ pageTitle, children }) => {
@@ -26,6 +27,7 @@ const Layout = ({ pageTitle, children }) => {
     <div className={container}>
       <header className={siteTitle}>{data.site.siteMetadata.title}</header>
       <div className={tel}>локація м.Стрий | тел./viber 0965651211</div>
+      <div className={text1}>Щоб бачити розміри і ціни переглядайте сайт не на мобільних телефонах</div>
       <nav>
         <ul className={navLinks}>
           <li className={navLinkItem}><Link className={navLinkText} to="/">Головна</Link></li>

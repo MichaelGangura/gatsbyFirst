@@ -1,10 +1,11 @@
 .container {
-    background-color: black;
+    background-color: #4F4C4D;
     margin: auto;
     max-width: 1600px;
     font-family: sans-serif;
     text-align: center;
   }
+
   .heading {
     color: #F87D39;
   }
@@ -17,6 +18,13 @@
     font-size: 1.5rem;
     border-radius: 4px;
     box-shadow: 1px 1px 5px 5px #F87D39;
+  }
+  .text1 {
+    max-width: 600px;
+    margin: auto;
+    padding: 0.7rem;
+    color: yellow;
+    font-size: 1rem;
   }
   .nav-links {
     display: flex;
@@ -36,4 +44,13 @@
     color: #F87D39;
     font-weight: 700;
     margin: 3rem 0;
+  }
+
+  @media screen and (max-width: 500px) {
+    .nav-links {
+      flex-direction: column;
+    }
+    .nav-link-item {
+      margin-top: 1rem;
+    }
   }

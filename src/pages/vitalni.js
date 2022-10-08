@@ -9,7 +9,7 @@ const Vitalni = () => {
     <Layout pageTitle="Вітальні">
       <StaticImage
         alt="Барон"
-        src="../images/vitalni/барон.JPG"
+        src="../images/vitalni/барон.jpg"
       />
       <br />
       <hr />
@@ -17,7 +17,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Гламур і Берна"
-        src="../images/vitalni/гламур-берна.JPG"
+        src="../images/vitalni/гламур-берна.jpg"
       />
       <br />
       <hr />
@@ -25,7 +25,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Кай"
-        src="../images/vitalni/кайню-кай.JPG"
+        src="../images/vitalni/кайню-кай.jpg"
       />
       <br />
       <hr />
@@ -33,7 +33,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Каспій і Монтес"
-        src="../images/vitalni/каспій_монтес.JPG"
+        src="../images/vitalni/каспій_монтес.jpg"
       />
       <br />
       <hr />
@@ -41,7 +41,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Монтреал"
-        src="../images/vitalni/монтреал.JPG"
+        src="../images/vitalni/монтреал.jpg"
       />
       <br />
       <hr />
@@ -49,23 +49,23 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Неон"
-        src="../images/vitalni/неон-1_1.JPG"
+        src="../images/vitalni/неон-1_1.jpg"
       />
       <StaticImage
         alt="Неон"
-        src="../images/vitalni/неон-1_2.JPG"
+        src="../images/vitalni/неон-1_2.jpg"
       />
       <StaticImage
         alt="Неон"
-        src="../images/vitalni/неон-1_неон-2.JPG"
+        src="../images/vitalni/неон-1_неон-2.jpg"
       />
       <StaticImage
         alt="Неон"
-        src="../images/vitalni/неон-2_1.JPG"
+        src="../images/vitalni/неон-2_1.jpg"
       />
       <StaticImage
         alt="Неон"
-        src="../images/vitalni/неон-2_2.JPG"
+        src="../images/vitalni/неон-2_2.jpg"
       />
       <br />
       <hr />
@@ -73,7 +73,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Орлеанс"
-        src="../images/vitalni/орлеанс.JPG"
+        src="../images/vitalni/орлеанс.jpg"
       />
       <br />
       <hr />
@@ -81,7 +81,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Тренто"
-        src="../images/vitalni/тренто.JPG"
+        src="../images/vitalni/тренто.jpg"
       />
       <br />
       <hr />
@@ -89,7 +89,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Трістан і Конго"
-        src="../images/vitalni/трістан-конго.JPG"
+        src="../images/vitalni/трістан-конго.jpg"
       />
       <br />
       <hr />
@@ -97,7 +97,7 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Ферара"
-        src="../images/vitalni/ферара.JPG"
+        src="../images/vitalni/ферара.jpg"
       />
       <br />
       <hr />
@@ -105,15 +105,15 @@ const Vitalni = () => {
       <br />
       <StaticImage
         alt="Ріо"
-        src="../images/vitalni/ріо-1_ріо-2.JPG"
+        src="../images/vitalni/ріо-1_ріо-2.jpg"
       />
       <StaticImage
         alt="Ріо"
-        src="../images/vitalni/ріо-3_ріо-4.JPG"
+        src="../images/vitalni/ріо-3_ріо-4.jpg"
       />
       <StaticImage
         alt="Ріо"
-        src="../images/vitalni/ріо_елем.JPG"
+        src="../images/vitalni/ріо_елем.jpg"
       />
     </Layout>
   )

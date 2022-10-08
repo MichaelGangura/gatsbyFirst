@@ -9,7 +9,7 @@ const Rizne = () => {
     <Layout pageTitle="Різне">
       <StaticImage
         alt="Ліжко Верона"
-        src="../images/rizne/ліжкаВерона.JPG"
+        src="../images/rizne/ліжкаВерона.jpg"
       />
       <br/>
       <hr/>
@@ -17,7 +17,7 @@ const Rizne = () => {
       <br/>
       <StaticImage
         alt="Ліжка Тоні і Алекс"
-        src="../images/rizne/тоні_алекс.JPG"
+        src="../images/rizne/тоні_алекс.jpg"
       />
       <br/>
       <hr/>
@@ -25,7 +25,7 @@ const Rizne = () => {
       <br/>
       <StaticImage
         alt="Столи різні"
-        src="../images/rizne/столи1.JPG"
+        src="../images/rizne/столи1.jpg"
       />
       <br/>
       <hr/>
@@ -33,7 +33,7 @@ const Rizne = () => {
       <br/>
       <StaticImage
         alt="Столи різні"
-        src="../images/rizne/столи2.JPG"
+        src="../images/rizne/столи2.jpg"
       />
       <br/>
       <hr/>
@@ -41,7 +41,7 @@ const Rizne = () => {
       <br/>
       <StaticImage
         alt="Столи різні"
-        src="../images/rizne/столи3.JPG"
+        src="../images/rizne/столи3.jpg"
       />
       <br/>
       <hr/>
@@ -49,7 +49,7 @@ const Rizne = () => {
       <br/>
       <StaticImage
         alt="Столи різні"
-        src="../images/rizne/столи4.JPG"
+        src="../images/rizne/столи4.jpg"
       />
       <br/>
       <hr/>
@@ -57,7 +57,7 @@ const Rizne = () => {
       <br/>
       <StaticImage
         alt="Тумби під взуття"
-        src="../images/rizne/тумбиВзуття.JPG"
+        src="../images/rizne/тумбиВзуття.jpg"
       />
     </Layout>
   )

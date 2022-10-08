@@ -9,7 +9,7 @@ const Prihozhi = () => {
     <Layout pageTitle="Прихожі">
       <StaticImage
         alt="лора_тріо"
-        src="../images/prihozhi/лора_тріо.JPG"
+        src="../images/prihozhi/лора_тріо.jpg"
       />
       <br/>
       <hr/>
@@ -17,7 +17,7 @@ const Prihozhi = () => {
       <br/>
       <StaticImage
         alt="палермо_блюз"
-        src="../images/prihozhi/палермо_блюз.JPG"
+        src="../images/prihozhi/палермо_блюз.jpg"
       />
       <br/>
       <hr/>
@@ -25,7 +25,7 @@ const Prihozhi = () => {
       <br/>
       <StaticImage
         alt="Парма"
-        src="../images/prihozhi/парма1.JPG"
+        src="../images/prihozhi/парма1.jpg"
       />
       <br/>
       <hr/>
@@ -33,7 +33,7 @@ const Prihozhi = () => {
       <br/>
       <StaticImage
         alt="Парма і Марк"
-        src="../images/prihozhi/парма_марк.JPG"
+        src="../images/prihozhi/парма_марк.jpg"
       />
       <br/>
       <hr/>
@@ -41,7 +41,7 @@ const Prihozhi = () => {
       <br/>
       <StaticImage
         alt="Торіно"
-        src="../images/prihozhi/торіно.JPG"
+        src="../images/prihozhi/торіно.jpg"
       />
       <br/>
       <hr/>
@@ -49,7 +49,7 @@ const Prihozhi = () => {
       <br/>
       <StaticImage
         alt="Оріон"
-        src="../images/prihozhi/оріон.JPG"
+        src="../images/prihozhi/оріон.jpg"
       />
     </Layout>
   )
