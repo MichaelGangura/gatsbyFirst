@@ -11,7 +11,7 @@
   }
 
   .tel {
-    max-width: 700px;
+    max-width: 70%;
     margin: auto;
     padding: 1rem;
     color: #F87D39;
@@ -25,7 +25,6 @@
     max-width: 510px;
     margin: 3rem auto;
     list-style: none;
-    padding-left: 0;
   }
   .nav-link-item {
     padding-right: 2rem;
