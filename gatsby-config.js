@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `дешеві меблі`,
+    title: `# дешеві меблі`,
     description: `Меблі недорогі в м.Стрий, різні, спальні, вітальні, прихожі, системи`,
   },
   plugins: [

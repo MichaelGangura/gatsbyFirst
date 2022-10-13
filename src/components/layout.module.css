@@ -46,4 +46,10 @@
     .nav-link-item {
       margin-top: 1rem;
     }
+    .site-title {
+      font-size: 2rem;
+      color: #F87D39;
+      font-weight: 700;
+      margin: 3rem 0;
+    }
   }
